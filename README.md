@@ -1,9 +1,6 @@
 <h1 align="center">Hello There! we are FStudioSV</h1>
 <h3 align="center">We are an organization of developers from El Salvador.</h3>
 <h3 align="center">Innovating your processes.</h3>
-- 🔭 We're working on [FStudios](Fstudios.dev)
-
-
 
 <p align="center"> 
   <img src="https://github.com/Freduart/Freduart/blob/main/assets/logoFStudiosNoBg.png" width="200" height="200"> 
